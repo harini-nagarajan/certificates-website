@@ -18,7 +18,4 @@
     overflow: visible;
 
 }
-.carousel img{
-    -webkit-box-reflect: below 40px linear-gradient(rgba(255,255,255,0.1),rgba(25,255,0.3));
-    
-}
+
